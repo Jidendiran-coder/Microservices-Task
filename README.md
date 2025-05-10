@@ -16,6 +16,8 @@ This document provides details on testing various services after running the `do
     ```
     Or open in your browser: [http://localhost:3000/users](http://localhost:3000/users)
 
+
+
 ---
 
 ### **Product Service**
@@ -27,6 +29,8 @@ This document provides details on testing various services after running the `do
     ```
     Or open in your browser: [http://localhost:3001/products](http://localhost:3001/products)
 
+![image](https://github.com/user-attachments/assets/8d2cb382-bb93-4867-b29b-852dab0ea112)
+
 ---
 
 ### **Order Service**
@@ -37,6 +41,8 @@ This document provides details on testing various services after running the `do
     curl http://localhost:3002/orders
     ```
     Or open in your browser: [http://localhost:3002/orders](http://localhost:3002/orders)
+
+![image](https://github.com/user-attachments/assets/17614fee-7e1d-46b7-a4c8-5b04627a584d)
 
 ---
 
@@ -55,7 +61,7 @@ This document provides details on testing various services after running the `do
     ```
     curl http://localhost:3003/api/orders
     ```
-
+![image](https://github.com/user-attachments/assets/6a3171e6-df3f-451e-bfdd-d2f6efc31e7e)
 ---
 
 ## Instructions
